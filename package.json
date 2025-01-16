@@ -2,9 +2,10 @@
   "name": "use-strict",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "useStrict.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:not-use-strict": "node ./notUseStrict.js",
+    "start:use-strict": "node ./useStrict.js"
   },
   "repository": {
     "type": "git",
