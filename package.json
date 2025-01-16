@@ -1,0 +1,19 @@
+{
+  "name": "use-strict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilEl/useStrict.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvilEl/useStrict/issues"
+  },
+  "homepage": "https://github.com/EvilEl/useStrict#readme"
+}
